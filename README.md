@@ -22,5 +22,5 @@ Este projeto foi desenvolvido como parte de uma atividade prática sobre Git e G
 5. **Pull Request**: Realizado o merge das branches para a `main` via PR.
 
 ---
-**Desenvolvido por:** Manus AI (para alexreceber010-ai)
+**Desenvolvido por:** Alex Francisco
 **Link do Repositório:** https://github.com/alexreceber010-ai/atividade-git-github
